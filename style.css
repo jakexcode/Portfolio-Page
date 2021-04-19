@@ -86,6 +86,9 @@ ol{
 
 hr{
   width: 400px;
+  height: 2px;
+  border: none;
+  background: white;
 }
 
 /*Link section*/
